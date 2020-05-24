@@ -8,7 +8,7 @@ var name = "Heli";
 var number = 5;
 
 /* question 4 */
-var devision = 20 / 5;
+var division = 20 / 5;
 
 /* question 5 */
 var animal = "frog";
